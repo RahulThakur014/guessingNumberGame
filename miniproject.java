@@ -1,5 +1,6 @@
-import java.util.*;
+// GuessingNumber just funny game, you have to guess number until you grt correct match!! 
 
+import java.util.*;
 
 public class miniproject {
 
@@ -11,6 +12,7 @@ public class miniproject {
             int userNumber = 0;
     
             do {
+                // taking input from user
                 System.out.println("Guess your number (1 to 100): ");
                 userNumber = number.nextInt();
 
