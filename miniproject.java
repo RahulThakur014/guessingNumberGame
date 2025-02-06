@@ -4,7 +4,7 @@ import java.util.*;
 
 public class miniproject {
 
-    static Scanner number = new Scanner(System.in);
+    static Scanner number = new Scanner(System.in); // getting input from user
     
         public static void main(String[] args) {
     
