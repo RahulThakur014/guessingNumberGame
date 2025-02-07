@@ -7,4 +7,4 @@ This code implements a simple number guessing game. Here's a summary:
 5. The loop continues until the user correctly guesses the number.
 6. Finally, the correct number is displayed.
 
-It's a fun little game to practice Java and get familiar with loops, conditionals, and user input. Ready to test your skills? 😉
+It's a fun little game to practice Java and get familiar with loops, conditionals, and user input. Ready to test your skills....😉
